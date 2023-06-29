@@ -86,7 +86,18 @@ ul, li {
   flex-direction: column;
 }
 
+.imgsText {
+  display: flex;
+}
+
 .img {
   height: 200px;
+  border: 5px solid #3882F6;
+  border-radius: 8px;
+}
 
+.Pmid1 {
+  margin-top: 25%;
+  text-align: center;
+  
 }
