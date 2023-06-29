@@ -4,17 +4,16 @@
 
 /* Header */
 
-.containerMain {
-  display: flex;
-  flex-direction: column;
-}
-
 ul {
   list-style-type: none;
 }
 
 a {
   text-decoration: none;
+}
+
+body {
+  margin: 0;
 }
 
 .headerTop, .footerBottom {
@@ -31,6 +30,7 @@ a {
   display: flex;
   font-size: 18px;
   color: #e5e7eb;
+  
 }
 
 .logo {
@@ -68,7 +68,7 @@ ul, li {
   margin-right:5%;
   text-align:right;
   float: left;
-  flex-shrink: 1;
+  
 }
 
 .Button {
@@ -107,16 +107,13 @@ ul, li {
 /* middle 2 */
 
 .containerMid2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
+  margin: 20px;
   padding: 0;
 }
 
 .Pmid2 {
-  margin: 100px;
-  margin-right: 50px;
+  font-size: 36px;
+  margin-left: 30;
 }
 
 .h4Mid2 {
