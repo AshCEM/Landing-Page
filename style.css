@@ -15,12 +15,13 @@ a {
 html, body {
   margin: auto;
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* align-items: baseline; */
 }
 
 .containerMain {
   background: #E5E7EB;
-  /* display: flex;
-  justify-content: center; */
 }
 
 .headerTop, .footerBottom {
@@ -65,15 +66,17 @@ ul, li {
   text-align: left;
   font-size: 48px;
   font-weight: bolder;
+  max-width:400px;
 }
 
 .pB {
+  max-width:400px;
   color: #F9FAF8;
   margin-bottom: 17px;
 }
 
 .imgTop {
-  width:900px;
+  min-width:400px;
   height: 200px;
   background: gray;
 }
