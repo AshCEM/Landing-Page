@@ -14,18 +14,18 @@ a {
 
 html, body {
   margin: auto;
-  width: 800px;
-  height: 960px;
-  background-color: #c0d8ff;
+  width: 100%;
 }
 
 .containerMain {
   background: #E5E7EB;
+  /* display: flex;
+  justify-content: center; */
 }
 
 .headerTop, .footerBottom {
-  display: flex;
   background: #1F2937;
+  display: flex;
   align-items: baseline;
   justify-content: space-around;
 }
@@ -119,13 +119,13 @@ ul, li {
 /* middle 2 */
 
 .containerMid2 {
-  margin: 20px;
-  padding: 20px;
+  padding: 100px;
   background: #E5E7EB;
-  
 }
 
 .textMid2 {
+  font-size: 32px;
+  min-width: 100;
 }
 
 .Signature {
