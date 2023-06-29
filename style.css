@@ -122,15 +122,10 @@ ul, li {
   margin: 20px;
   padding: 20px;
   background: #E5E7EB;
-  display: flex;
-  align-items: baseline;
-  justify-content: space-around;
-  flex-direction: column;
+  
 }
 
 .textMid2 {
-  font-size: 36px;
-  font-style: italic;
 }
 
 .Signature {
