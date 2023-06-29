@@ -50,35 +50,31 @@ ul, li {
   background-color: #1F2937;
   display: flex;
   padding: 50px;
-  gap: 80px;
+  gap: 20px;
+  margin: 0;
 }
 
 .textTop {
-  color: #F9FAF8;
-  /* width:65%;
-  margin-left:10%;
-  text-align: left;
-  float: left;
-  margin-left: 20px; */
+  margin: 10px;
 }
 
-div.HeaderA {
+.HeaderA {
+  color: #F9FAF8;
   text-align: left;
   font-size: 48px;
   font-weight: bolder;
 }
 
-div.pB {
-  
+.pB {
+  color: #F9FAF8;
+  margin-bottom: 17px;
 }
 
 .imgTop {
-  width:600px;
+  width:900px;
   height: 200px;
-  margin-right:5%;
-  text-align:right;
-  float: left;
-  
+  background: gray;
+  border: 1px solid #1F2937;
 }
 
 .Button {
