@@ -70,8 +70,8 @@ ul, li {
 }
 
 .pB {
-  max-width:400px;
-  color: #F9FAF8;
+  color: #f8faffd6;
+  max-width: 400px;
   margin-bottom: 17px;
 }
 
@@ -79,6 +79,11 @@ ul, li {
   min-width:400px;
   height: 200px;
   background: gray;
+}
+
+.simonLee {
+  color: #f8faffd6;
+  text-align: center;
 }
 
 .Button {
@@ -141,4 +146,36 @@ ul, li {
   padding-right: 20px;
   font-size: 20px;
   font-weight: bolder;
+}
+
+/* Bottom */
+
+.containerBottom {
+  background-color: #3882F6;
+  margin: 60px;
+  padding: 50px;
+  border-radius: 8px;
+}
+
+.inner {
+  display: flex;
+}
+
+.CBH {
+  
+}
+
+.CBP {
+
+}
+
+.bottomLink {
+
+}
+
+
+/* Footer */
+
+.footerBottom {
+  color: #e0e1e3;
 }
