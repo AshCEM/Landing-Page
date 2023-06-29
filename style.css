@@ -5,6 +5,8 @@
 /* Header */
 
 .containerMain {
+  display: flex;
+  flex-direction: column;
 }
 
 ul {
@@ -16,7 +18,7 @@ a {
 }
 
 .headerTop, .footerBottom {
-  background-color: #1F2937;
+  background: #1F2937;
 }
 
 .headerTop {
@@ -80,24 +82,24 @@ ul, li {
 
 /* Middle 1 */
 
-.containerMid1 {
+.h2mid1 {
   text-align: center;
-  display: flex;
-  flex-direction: column;
 }
 
-.imgsText {
+.info {
   display: flex;
+  justify-content: center;
+  gap: 52px;
+  padding: 15px;
 }
 
 .img {
-  height: 200px;
+  height: 130px;
+  width: 130px;
   border: 5px solid #3882F6;
   border-radius: 8px;
 }
 
 .Pmid1 {
-  margin-top: 25%;
   text-align: center;
-  
 }
