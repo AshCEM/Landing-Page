@@ -55,11 +55,21 @@ ul, li {
 
 .textTop {
   color: #F9FAF8;
-  width:65%;
+  /* width:65%;
   margin-left:10%;
   text-align: left;
   float: left;
-  margin-left: 20px;
+  margin-left: 20px; */
+}
+
+div.HeaderA {
+  text-align: left;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+div.pB {
+  
 }
 
 .imgTop {
