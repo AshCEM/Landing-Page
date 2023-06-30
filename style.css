@@ -169,12 +169,7 @@ ul, li {
   gap: 100px;
 }
 
-.CBH {
-  margin-left: 10px;
-  color: #F9FAF8;
-}
-
-.CBP {
+.CBH, .CBP {
   margin-left: 10px;
   color: #F9FAF8;
 }
