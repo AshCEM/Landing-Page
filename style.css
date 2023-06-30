@@ -31,8 +31,9 @@ body {
 }
 
 .headerTop {
+  
   padding: 10px;
-  gap: 200px;
+  gap: 5em;
 }
 
 .links {
