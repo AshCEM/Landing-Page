@@ -25,7 +25,7 @@ body {
 
 .headerTop {
   padding: 10px;
-  gap: 20em;
+  gap: 10em;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -44,9 +44,8 @@ body {
 
 .logo {
   font-size: 24px;
-  color: #F9FAF8;
-  font-weight: 800;
-  margin-right: 120px;
+  margin-right: 11em;
+  width: 8em;
 }
 
 /* Top Area */
