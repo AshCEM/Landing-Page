@@ -20,7 +20,7 @@ body {
 /* Header */
 
 .headerTop, .footerBottom {
-  background: #1F2937;
+  background: #811509;
 }
 
 .headerTop {
@@ -51,7 +51,7 @@ body {
 /* Top Area */
 
 .containerTop {
-  background-color: #1F2937;
+  background-color: #811509;
   display: flex;
   justify-content: center;
   padding: 50px;
@@ -84,7 +84,7 @@ body {
 }
 
 .Button {
-  background-color: #3882F6;
+  background-color: #c6741c;
   color: #e5e7eb;
   padding: 7px;
   padding-left: 25px;
