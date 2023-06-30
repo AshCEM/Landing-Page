@@ -170,11 +170,12 @@ ul, li {
 
 .CBH {
   margin-left: 10px;
-  
+  color: #F9FAF8;
 }
 
 .CBP {
   margin-left: 10px;
+  color: #F9FAF8;
 }
 
 #bottomLink {
@@ -184,11 +185,7 @@ ul, li {
   border-radius: 7px;
   font-size: 14px;
   font-weight: 600;
-
-
   /* Break */
-
-
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 4px;
