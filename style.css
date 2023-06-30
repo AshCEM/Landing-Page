@@ -25,13 +25,13 @@ body {
 
 .headerTop, .footerBottom {
   background: #1F2937;
-  
 }
 
 .headerTop {
-  
   padding: 10px;
   gap: 5em;
+  display: flex;
+  justify-content: space-around;
 }
 
 .links {
@@ -200,7 +200,7 @@ ul, li {
 
 .footerBottom {
   color: #e0e1e3;
-  padding: 15px;
+  padding: 30px;
   display: flex;
   justify-content: space-around;
 }
