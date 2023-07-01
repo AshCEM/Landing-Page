@@ -76,6 +76,8 @@ body {
   min-width:400px;
   height: 200px;
   background: gray;
+  border: 5px solid #c6741c;
+  border-radius: 10px;
 }
 
 .slayersCast {
@@ -167,7 +169,7 @@ body {
 }
 
 .CBH, .CBP {
-  margin-left: 60px;
+  margin-left: 80px;
   color: #F9FAF8;
 }
 
